@@ -35,5 +35,5 @@ optical catalogue on DS9 can be a good resource for finding reference stars.)
 There is more (not at all good) error analysis code here too.
 
 ### Gaussian OD
-Gauss' method of orbit determination from on  Kepler's Second Law! Outputs a nice
+Gauss' method of orbit determination based on Kepler's Second Law! Outputs a nice
 orbital elements chart.
